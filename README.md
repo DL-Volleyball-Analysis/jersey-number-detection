@@ -1,3 +1,7 @@
+> **Archived (October 2026).** This code now lives in
+> [volleyball-analysis/training/jersey-numbers](https://github.com/DL-Volleyball-Analysis/volleyball-analysis/tree/main/training/jersey-numbers).
+> This repository is kept read-only for its history.
+
 # Jersey Number Detection | 球衣號碼檢測模型訓練專案
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
